@@ -1,0 +1,6 @@
+D:\SU\SMA\Assignment\Project 4\CommPrototype\HiResTimer\bin\Debug\HiResTimer.exe.config
+D:\SU\SMA\Assignment\Project 4\CommPrototype\HiResTimer\bin\Debug\HiResTimer.exe
+D:\SU\SMA\Assignment\Project 4\CommPrototype\HiResTimer\bin\Debug\HiResTimer.pdb
+D:\SU\SMA\Assignment\Project 4\CommPrototype\HiResTimer\obj\Debug\HiResTimer.csprojResolveAssemblyReference.cache
+D:\SU\SMA\Assignment\Project 4\CommPrototype\HiResTimer\obj\Debug\HiResTimer.exe
+D:\SU\SMA\Assignment\Project 4\CommPrototype\HiResTimer\obj\Debug\HiResTimer.pdb

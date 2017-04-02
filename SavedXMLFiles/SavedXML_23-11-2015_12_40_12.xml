@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is a No-SQL Database.-->
+<NoSqlDb>
+  <KeyType>System.Int32</KeyType>
+  <PayloadType>System.String</PayloadType>
+  <Key-Value-Pair>
+    <Key>9</Key>
+    <Element>
+      <Name>Messi</Name>
+      <Descr>Football player</Descr>
+      <Children>
+        <Key>5</Key>
+        <Key>8</Key>
+      </Children>
+      <timestamp>0001-01-01T00:00:00</timestamp>
+      <payload>Director of shutter island</payload>
+    </Element>
+  </Key-Value-Pair>
+</NoSqlDb>

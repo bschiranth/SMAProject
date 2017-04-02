@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<xCount>2</xCount>
+<ClientMessage>
+	<Key>1</Key>
+	<name>Martin Socrese</name>
+	<descr>Director1</descr>
+	<payload>Director of shutter island</payload>
+	<children>	
+			<cKey>1</cKey>
+			<cKey>1</cKey>
+			<cKey>1</cKey>
+	</children>
+	<QueryType>Insert</QueryType>
+</ClientMessage>
+<ClientMessage>
+    <Key>2</Key>
+	<name>Chistopher Nolan</name>
+	<descr>Director2</descr>
+	<payload>Director of Batman</payload>
+	<children>
+			<cKey>4</cKey>
+			<cKey>5</cKey>
+			<cKey>6</cKey>
+	</children>
+	<QueryType>Insert</QueryType>
+</ClientMessage>
+<ClientMessage>
+	<Key>4</Key>
+	<name>Micheal Bay</name>
+	<descr>Director5</descr>
+	<payload>Director of Transformers</payload>
+	<children>	
+			<cKey>1</cKey>
+			<cKey>2</cKey>
+			<cKey>3</cKey>
+	</children>
+	<QueryType>Insert</QueryType>
+</ClientMessage>
+<ClientMessage>
+	<Key>4</Key>
+	<name>Micheal Bay</name>
+	<descr>Director5</descr>
+	<payload>Director of Transformers</payload>
+	<children>	
+			<cKey>1</cKey>
+			<cKey>2</cKey>
+			<cKey>3</cKey>
+	</children>
+	<QueryType>Delete</QueryType>
+</ClientMessage>
+<ClientMessage>
+	<Key>5</Key>
+	<name>James Cameron</name>
+	<descr>Director6</descr>
+	<payload>Director of Terminator</payload>
+	<children>	
+			<cKey>1</cKey>
+			<cKey>2</cKey>
+			<cKey>3</cKey>
+	</children>
+	<QueryType>Insert</QueryType>
+</ClientMessage>
+<ClientMessage>
+	<Key>5</Key>
+	<name>James Cameron</name>
+	<descr>Director6</descr>
+	<payload>Director of Terminator</payload>
+	<children>	
+			<cKey>1</cKey>
+			<cKey>2</cKey>
+			<cKey>3</cKey>
+	</children>
+	<QueryType>Edit</QueryType>
+</ClientMessage>
+<ClientMessage>
+	<Key>3</Key>
+	<name>Quentin Tarantino </name>
+	<descr>Director3</descr>
+	<payload>Director of Reservior Dogs</payload>
+	<children>	
+			<cKey>7</cKey>
+			<cKey>8</cKey>
+			<cKey>9</cKey>
+	</children>
+	<QueryType>Insert</QueryType>
+</ClientMessage> 
+<ClientMessage>
+	<Key>3</Key>
+	<name>Quentin Tarantino </name>
+	<descr>Director3</descr>
+	<payload>Director of Reservior Dogs</payload>
+	<children>	
+			<cKey>77</cKey>
+			<cKey>78</cKey>
+			<cKey>79</cKey>
+	</children>
+	<QueryType>AddRelation</QueryType>
+</ClientMessage> 
+<ClientMessage>
+	<QueryType>Persist</QueryType>
+</ClientMessage> 
+<ClientMessage>
+	<QueryType>Load</QueryType>
+</ClientMessage>   
+</root>

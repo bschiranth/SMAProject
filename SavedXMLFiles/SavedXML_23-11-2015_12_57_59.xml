@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is a No-SQL Database.-->
+<NoSqlDb>
+  <KeyType>System.Int32</KeyType>
+  <PayloadType>System.String</PayloadType>
+  <Key-Value-Pair>
+    <Key>1</Key>
+    <Element>
+      <Name>Martin Socrese</Name>
+      <Descr>Director1</Descr>
+      <Children>
+        <Key>1</Key>
+        <Key>1</Key>
+        <Key>1</Key>
+      </Children>
+      <timestamp>0001-01-01T00:00:00</timestamp>
+      <payload>Director of shutter island</payload>
+    </Element>
+  </Key-Value-Pair>
+  <Key-Value-Pair>
+    <Key>2</Key>
+    <Element>
+      <Name>Chistopher Nolan</Name>
+      <Descr>Director2</Descr>
+      <Children>
+        <Key>4</Key>
+        <Key>5</Key>
+        <Key>6</Key>
+      </Children>
+      <timestamp>0001-01-01T00:00:00</timestamp>
+      <payload>Director of Batman</payload>
+    </Element>
+  </Key-Value-Pair>
+  <Key-Value-Pair>
+    <Key>5</Key>
+    <Element>
+      <Name>Cameron</Name>
+      <Descr>Director 10</Descr>
+      <Children>
+        <Key>1</Key>
+        <Key>2</Key>
+        <Key>3</Key>
+      </Children>
+      <timestamp>2015-11-23T12:57:59.0278246-05:00</timestamp>
+      <payload>Aliens,Avatar</payload>
+    </Element>
+  </Key-Value-Pair>
+  <Key-Value-Pair>
+    <Key>3</Key>
+    <Element>
+      <Name>Quentin Tarantino </Name>
+      <Descr>Director3</Descr>
+      <Children>
+        <Key>7</Key>
+        <Key>8</Key>
+        <Key>9</Key>
+      </Children>
+      <timestamp>0001-01-01T00:00:00</timestamp>
+      <payload>Director of Reservior Dogs</payload>
+    </Element>
+  </Key-Value-Pair>
+</NoSqlDb>

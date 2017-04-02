@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+  <Message>
+
+    <id>12</id>
+
+    <Operation>Checkin</Operation>
+
+    <PackageName>TestPackage.cs</PackageName>     
+
+    <Path> D:\Docs\TestPackage.cs</Path>
+
+    <version>1.0</version>
+
+    <TimeStamp>07/12/15 11:46:12 am</TimeStamp>
+
+
+  </Message>

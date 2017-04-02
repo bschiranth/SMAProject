@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Client2Message>
+	<Key>1</Key>
+	<QueryType>gettingValue</QueryType>
+ </Client2Message>
+ <Client2Message>
+	<Key>2</Key>
+	<QueryType>gettingChildren</QueryType>
+ </Client2Message>
+ <Client2Message>
+	<Key>1</Key>
+	<Pattern>1</Pattern>
+	<QueryType>KeyPatternMatching</QueryType>
+ </Client2Message>
+</root>

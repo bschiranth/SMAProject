@@ -1,0 +1,5 @@
+D:\SU\SMA\Assignment\Project 4\CommPrototype\DBLibrary\bin\Debug\DBLibrary.dll
+D:\SU\SMA\Assignment\Project 4\CommPrototype\DBLibrary\bin\Debug\DBLibrary.pdb
+D:\SU\SMA\Assignment\Project 4\CommPrototype\DBLibrary\obj\Debug\P2Lib.csprojResolveAssemblyReference.cache
+D:\SU\SMA\Assignment\Project 4\CommPrototype\DBLibrary\obj\Debug\DBLibrary.dll
+D:\SU\SMA\Assignment\Project 4\CommPrototype\DBLibrary\obj\Debug\DBLibrary.pdb

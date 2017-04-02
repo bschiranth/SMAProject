@@ -1,0 +1,8 @@
+D:\SU\SMA\Assignment\Project 4\CommPrototype\PersistDB\bin\Debug\PersistDB.exe.config
+D:\SU\SMA\Assignment\Project 4\CommPrototype\PersistDB\bin\Debug\PersistDB.exe
+D:\SU\SMA\Assignment\Project 4\CommPrototype\PersistDB\bin\Debug\PersistDB.pdb
+D:\SU\SMA\Assignment\Project 4\CommPrototype\PersistDB\bin\Debug\DBLibrary.dll
+D:\SU\SMA\Assignment\Project 4\CommPrototype\PersistDB\bin\Debug\DBLibrary.pdb
+D:\SU\SMA\Assignment\Project 4\CommPrototype\PersistDB\obj\Debug\PersistDB.csprojResolveAssemblyReference.cache
+D:\SU\SMA\Assignment\Project 4\CommPrototype\PersistDB\obj\Debug\PersistDB.exe
+D:\SU\SMA\Assignment\Project 4\CommPrototype\PersistDB\obj\Debug\PersistDB.pdb

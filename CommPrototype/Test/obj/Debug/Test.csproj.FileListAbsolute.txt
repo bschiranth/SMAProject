@@ -1,0 +1,12 @@
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\Test\bin\Debug\Test.exe.config
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\Test\bin\Debug\Test.exe
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\Test\bin\Debug\Test.pdb
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\Test\obj\Debug\Test.exe
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\Test\obj\Debug\Test.pdb
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\bin\Debug\Test.exe.config
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\obj\Debug\Test.exe
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\obj\Debug\Test.pdb
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\bin\Debug\Test.exe
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\bin\Debug\Test.pdb
+D:\SU\SMA\Assignment\Project 4\CommPrototype\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
